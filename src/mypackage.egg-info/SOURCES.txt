@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/asteroids/__init__.py
+src/asteroids/api.py
+src/asteroids/cli.py
+src/mypackage.egg-info/PKG-INFO
+src/mypackage.egg-info/SOURCES.txt
+src/mypackage.egg-info/dependency_links.txt
+src/mypackage.egg-info/entry_points.txt
+src/mypackage.egg-info/top_level.txt
+tests/test_api.py
+tests/test_cli.py

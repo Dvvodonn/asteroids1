@@ -1,0 +1,8 @@
+name: analysis-env
+channels:
+- conda-forge
+dependencies:
+- python > 3.9
+- requests
+- numpy = 1.2.1
+- pytest
