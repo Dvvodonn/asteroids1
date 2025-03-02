@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-
+print('hello world')
 setup(
     name="mypackage",
     version="0.1.1",
